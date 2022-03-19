@@ -1,0 +1,12 @@
+﻿  addhp.cpp
+C:\Users\User\source\repos\SpaceWars\SpaceWars\addhp.cpp(28,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  bullet.cpp
+  Enemy.cpp
+  enemybullet.cpp
+  main.cpp
+  meteorite.cpp
+  player.cpp
+  SpaceWars.cpp
+  util.cpp
+  Generating Code...
+  SpaceWars.vcxproj -> C:\Users\User\source\repos\SpaceWars\bin\SpaceWarsd.exe
